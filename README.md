@@ -1,7 +1,6 @@
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=440&lines=Hello%20world!%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Gabriel+Marte+%F0%9F%92%BB" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=00C647&center=true&vCenter=true&width=435&separator=%3C&lines=Console.WriteLine(%22Hello+World!%22);" alt="Typing SVG" />
   </a>
 </p>
 
